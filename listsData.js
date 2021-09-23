@@ -1,0 +1,72 @@
+const data =[
+	{
+		title:"El classico match 2005",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+	{
+		title:"Barclays league",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"Psg best matches",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"World cup highlight",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"Ronaldo the goats",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"Messi messiah the destroyer",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"Zlatan goal of the century",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"Premier league best moments",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"paris saint german trio",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		},
+
+	{
+		title:"Goal goal goal goal",
+		type:"movies",
+		genre:"best",
+		content:["612de1688ceb465c6bbd1146","612df45617bf00500ab2b535","612df45617bf00500ab2b536","612df45617bf00500ab2b537","612df45617bf00500ab2b538","612df45617bf00500ab2b539","612df45617bf00500ab2b53b","612df45617bf00500ab2b53c","612df45617bf00500ab2b53d","612df45617bf00500ab2b53d"]
+		}
+];
+
+module.exports = data
